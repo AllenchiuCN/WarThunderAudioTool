@@ -10,7 +10,14 @@ src/dist/
 __pycache__/
 *.tmp
 *.temp
-
+# 工具文件
+src/quickbms.exe
+src/Script.bms
+src/fmod_extr.exe
+src/fmodex.dll
+src/fsb_aud_extr.exe
+src/Script.bms
+src/fmodL.dll
 # PyInstaller生成的文件
 *.spec
 
