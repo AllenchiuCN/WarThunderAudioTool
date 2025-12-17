@@ -1,0 +1,39 @@
+# 虚拟环境
+.venv/
+
+# 构建输出目录
+src/build/
+src/dist/
+
+# 临时文件和缓存
+*.pyc
+__pycache__/
+*.tmp
+*.temp
+
+# PyInstaller生成的文件
+*.spec
+
+# 日志文件
+*.log
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 数据库文件
+*.db
+*.sqlite
+
+# 环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

@@ -1,0 +1,13 @@
+# War Thunder Audio Tool 依赖列表
+# 项目主要依赖包
+
+# GUI框架
+PyQt5==5.15.9
+PyQt5-sip==12.17.2
+
+# 图像处理（用于图标处理）
+pillow==12.0.0
+
+# 打包工具
+pyinstaller==6.17.0
+pyinstaller-hooks-contrib==2025.10
